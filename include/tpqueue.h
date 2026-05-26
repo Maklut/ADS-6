@@ -65,4 +65,4 @@ class TPQueue {
   }
 };
 
-#endif
+#endif  // INCLUDE_TPQUEUE_H_
